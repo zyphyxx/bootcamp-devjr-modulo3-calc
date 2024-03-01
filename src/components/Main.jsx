@@ -10,6 +10,7 @@ export default function Main() {
           <th>Nome</th>
           <th>Preço</th>
           <th>Quantidade</th>
+          <th>Marca</th>
         </tr>
       </thead>
 
